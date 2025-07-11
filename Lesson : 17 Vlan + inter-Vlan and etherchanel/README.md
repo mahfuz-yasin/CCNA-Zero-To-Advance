@@ -66,3 +66,5 @@ Switch(config)# interface range fa0/1 - 2
 Switch(config-if-range)# switchport mode access
 Switch(config-if-range)# switchport access vlan 10
 Switch(config-if-range)# exit
+
+### Verify 
