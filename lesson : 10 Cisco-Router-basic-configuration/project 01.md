@@ -5,9 +5,7 @@
 
 ### Step 01: Diagram  
 - নেটওয়ার্কের ডায়াগ্রাম তৈরি করো।
-<img width="635" height="557" alt="Image" src="https://
-github.com/user-attachments/assets/
-b9f8e084-705e-460c-bb8a-b6a89250f496" />
+
 ---
 
 ### Step 02: Plan  
@@ -34,7 +32,7 @@ b9f8e084-705e-460c-bb8a-b6a89250f496" />
      **ip address 192.168.0.1 255.255.255.0**
 
 Project All Images : 
-
+<img width="635" height="557" alt="Image" src="https://github.com/user-attachments/assets/b9f8e084-705e-460c-bb8a-b6a89250f496" />
 <img width="695" height="794" alt="Image" src="https://github.com/user-attachments/assets/78b70445-75f2-46ec-8816-445a061cf4cf" />
 <img width="695" height="794" alt="Image" src="https://github.com/user-attachments/assets/1559657d-b563-496c-87a3-df18d0419053" />
 <img width="695" height="794" alt="Image" src="https://github.com/user-attachments/assets/752ed531-5e86-4d44-ad50-5aa8683be44f" />
