@@ -31,7 +31,7 @@
     ```bash 
      **ip address 192.168.0.1 255.255.255.0**
 
-Project All Images : 
+# Project All Images : 
 <img width="635" height="557" alt="Image" src="https://github.com/user-attachments/assets/b9f8e084-705e-460c-bb8a-b6a89250f496" />
 <img width="695" height="794" alt="Image" src="https://github.com/user-attachments/assets/78b70445-75f2-46ec-8816-445a061cf4cf" />
 <img width="695" height="794" alt="Image" src="https://github.com/user-attachments/assets/1559657d-b563-496c-87a3-df18d0419053" />
