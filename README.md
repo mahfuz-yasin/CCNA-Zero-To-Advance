@@ -2,4 +2,8 @@
 # CyberSecurity & Ethical Hacking
 
 # **step by step guide**
+# commands
+- CTRL+Select Devices or Cables   // for qukly design Diagram
+- show ip interface brief /‌/ এটি সব ইন্টারফেসের তালিকা দেখাবে
+- CLI-তে up arrow (↑) চাপলে আগের কমান্ডগুলো আসবে।
 
