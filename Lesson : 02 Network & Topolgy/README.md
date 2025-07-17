@@ -53,7 +53,8 @@ Host হচ্ছে sender বা Reciever, যাদের আলাদা আ
 
 ### End Devices :
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/78de8cb6-e7d6-4d7c-8e33-e313ac9fbe9c" />
-### 🔸 Intermediary Device
+
+###  Intermediary Device
 End Device গুলোর মাঝে সংযোগ স্থাপনকারী ডিভাইস।  
 যেমন: Switch, Hub, Router, Wireless Access Point 
 
