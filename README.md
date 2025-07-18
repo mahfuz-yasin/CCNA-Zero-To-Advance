@@ -73,6 +73,7 @@
 ### 🔸 উদাহরণ কমান্ড
 
 ```bash
+Router>                           # user exicution mode
 Router> enable                    # Privileged Mode-এ যাও
 Router# configure terminal        # Global Config Mode
 Router(config)# interface g0/0
