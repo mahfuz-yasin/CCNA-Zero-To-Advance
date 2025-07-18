@@ -15,9 +15,7 @@
 
 ---
 
-### ✅ GitHub Markdown Format:
 
-````markdown
 # 🔐 Cisco Router Password Configuration Guide
 
 This guide shows how to configure various types of passwords on a Cisco router or switch to ensure proper access control and security.
