@@ -91,7 +91,7 @@ Switch হলো একটি নেটওয়ার্ক ডিভাইস য
 - Getwaye , Default Getwaye
 
 # sending packet to destination pc or network device :
-- packet দুইভাবে সেন্ড করা যায় : ১- সরাসরি ২- ping কমান্ডের মাধ্যমে । <br>
+- packet দুইভাবে সেন্ড করা যায় : ১- using by directly packet ২- ping কমান্ডের মাধ্যমে । <br>
 
  <bold>সরাসরি </bold> : <br>
 
